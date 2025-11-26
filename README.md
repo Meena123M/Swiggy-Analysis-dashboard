@@ -53,6 +53,11 @@ The Excel dashboard includes:
 - Interactive slicers (Cuisine, City, Restaurant)
 
 ---
+## 🧩 Future Improvements
 
-## 📁 Project Structure
+- Build a Power BI dashboard  
+- Add predictive analysis (forecasting order volume)  
+- Integrate with Python for automated preprocessing  
+
+---
 
